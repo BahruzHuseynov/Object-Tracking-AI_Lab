@@ -1,7 +1,7 @@
 <div align="center">
    <h1>2D Lego Tracking - Object Tracking</h1>
    <h2>AI Laboratory Work (ELTE 2025 - Summer Work + Autumn Semester)</h2>
-   <img src = "https://eduscope.me/storage/app/media/pages/affiliated%20universities/LOGOS/ELTE.jpg" alt="ELTE Logo" width="300">
+   <img src = "images/ELTE_logo.png" alt="ELTE Logo">
 </div>
 
 It is a research based project in which object detection, segmentation, and tracking algorithms focusing on LEGO bricks in real-world video recordings are used. Using YOLOv8 and RT-DETR models for the detection, DeepLabv3 for semantic segmentation and DeepSORT for tracking, the research evaluates performance in building an object counter. 
@@ -21,7 +21,7 @@ It is a research based project in which object detection, segmentation, and trac
 In this research, the dataset was manually created using a smartphone, consisting of 12 videos — 10 for training and 2 for testing. These videos capture conveyor belts with LEGO bricks from multiple angles with varying complexities for diversity. LEGO bricks were annotated frame-by-frame using RoboFlow (https://roboflow.com/), which was the most time-consuming step. Dataset is publicly available in kaggle: https://www.kaggle.com/datasets/hbahruz/multiple-lego-tracking-dataset
 
 ## Pipeline
-<img src="Pipeline_Main.png">
+<img src="images/Pipeline_Main.png">
 ## Using this project
 
 ### Acknowledgments
