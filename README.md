@@ -12,7 +12,7 @@ It is a research based project in which object detection, segmentation, and trac
 - **Ultralytics**: AI platform that makes the usage of YOLOv8 and RT-DETR models easy. <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDfTFONBFO8j91aS1lQPb9jfARtTFP1B82Q&s" alt="Ultralytics" width="50" />
 - **OpenCV**: Used for controlling video frames and processing them. <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/OpenCV-Dark.svg" alt="OpenCV" width="30" />
 - **RoboFlow**: It is a platform used to annotate images with boundary boxes. <img src = "https://d7umqicpi7263.cloudfront.net/img/product/8305253e-2066-4396-9e9a-f0f9b97e75b9.png" alt = "RoboFlow" width = "90"/>
-- **Kaggle**: This platform has been used to store data. <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZtXL5iMUpyo9rv-wJGjZiR62QPubHeI6-wA&s" alt="Kaggle Logo" width="50">
+- **Kaggle**: This platform has been used to store data. <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZtXL5iMUpyo9rv-wJGjZiR62QPubHeI6-wA&s" alt="Kaggle Logo" width="70">
 
 ## Google Colab <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSArk3D34rWqNoPw4_n-ovyK0lz3yvknTVZd9yeCdZrsdDEViqoPMmjhFWD-iy4NO1UiyI&usqp=CAU" alt="Colab" width="40">
 - To train or fine-tune detection and segmentation models, usage of GPU is recommended.
