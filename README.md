@@ -13,9 +13,9 @@ It is a research based project in which object detection, segmentation, and trac
 - **OpenCV**: Used for controlling video frames and processing them. <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/OpenCV-Dark.svg" alt="OpenCV" width="30" />
 - **RoboFlow**: It is a platform used to annotate images with boundary boxes <img src = "https://d7umqicpi7263.cloudfront.net/img/product/8305253e-2066-4396-9e9a-f0f9b97e75b9.png" alt = "RoboFlow" width = "90"/>
 
-## Hardware Requirement
+## Hardware Requirement 
 - To train or fine-tune detection and segmentation models, usage of GPU is recommended
-- During research, Google Colab has been utilized as it is a hosted Jupyter Notebook service that provides free access to computing resources, including GPUs and TPUs
+- During research, Google Colab has been utilized as it is a hosted Jupyter Notebook service that provides free access to computing resources, including GPUs and TPUs. <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Ultralytics" width="50" />
 
 ## Dataset
 In this research, the dataset was manually created using a smartphone, consisting of 12 videos — 10 for training and 2 for testing. These videos capture conveyor belts with LEGO bricks from multiple angles with varying complexities for diversity. LEGO bricks were annotated frame-by-frame using RoboFlow (https://roboflow.com/), which was the most time-consuming step. Dataset is publicly available in kaggle: https://www.kaggle.com/datasets/hbahruz/multiple-lego-tracking-dataset
