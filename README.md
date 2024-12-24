@@ -1,5 +1,8 @@
-# 2D Lego Tracking - Object Tracking 
+<div align="center">
+# 2D Lego Tracking - Object Tracking  
 ## AI Laboratory Work (ELTE 2025 - Summer Work + Autumn Semester)
+</div>
+
 <img src = "https://eduscope.me/storage/app/media/pages/affiliated%20universities/LOGOS/ELTE.jpg">
 
 It is a research based project in which two
