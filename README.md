@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>2D Lego Tracking - Object Tracking</h1>
+   <h1>2D Lego Tracking - Object Counter</h1>
    <h2>AI Laboratory Work (ELTE 2025 - Summer Work + Autumn Semester)</h2>
    <img src = "images/ELTE_Logo.png" alt="ELTE Logo">
 </div>
