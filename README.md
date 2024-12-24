@@ -1,6 +1,6 @@
 <div align="center">
-# 2D Lego Tracking - Object Tracking  
-## AI Laboratory Work (ELTE 2025 - Summer Work + Autumn Semester)
+   <h1>2D Lego Tracking - Object Tracking</h1>
+   <h2>AI Laboratory Work (ELTE 2025 - Summer Work + Autumn Semester)</h2>
 </div>
 
 <img src = "https://eduscope.me/storage/app/media/pages/affiliated%20universities/LOGOS/ELTE.jpg">
