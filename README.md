@@ -2,13 +2,10 @@
    <h1>2D Lego Tracking - Object Tracking</h1>
    <h2>AI Laboratory Work (ELTE 2025 - Summer Work + Autumn Semester)</h2>
 </div>
-
 <img src = "https://eduscope.me/storage/app/media/pages/affiliated%20universities/LOGOS/ELTE.jpg">
 
 It is a research based project in which two
 
-
-This project implements a **2D Gaze Tracking** system that uses appearance-based methods to control the paddle in the **Breakout** game. The system tracks the user's gaze and moves the paddle based on their eye position, providing a unique and engaging way to interact with the game.
 
 # Technology
 - **Python**: Main programming language. ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -20,53 +17,13 @@ This project implements a **2D Gaze Tracking** system that uses appearance-based
 
 ## Prerequisites
 - Creation of the virtual environment is recommended
-- Make sure you have **Python 3.x** installed. You can check this by running:
-```bash python --version```
+
 
 ## Using this project
 
-1. Clone the project to use and apply changes
-
-   ```bash
-   git clone <URL>
-   cd Gaze2D-Arkanoid
-   ```
-   
-   See success message of connection and listening on port 5000
-
-2. Install the required libraries by the command below **after cloning the project**
-
-```pip install -r requirements.txt```
-
-3. Run the main.py file inside the folder named "Main_Folder"
-
-4. Look at each position and press 'c' to continue
-
-<img src = "https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs11042-018-6490-7/MediaObjects/11042_2018_6490_Fig5_HTML.png" alt = "calibration">
-
-5. Then, the game will start. Control the plate with your eyes.
-## Project Structure
-
-1. MobileNet Folder
-- Contains a Jupyter Notebook that has been fine-tuned on a public dataset.
-- Combines MediaPipe outputs with the MobileNetV3 architecture.
-- Uses MediaPipe to obtain two eye boundary boxes.
-- Passes these boundary boxes into the MobileNetV3 model to predict the pupil centers for both eyes.
-  
-2. MediaPipe Folder
-- Detect eye boundary boxes and dentify the pupil and iris.
-- Determine whether the eye is open or closed.
-  
-3. Main Folder
-- main.py: The primary script that combines the functionalities of both MobileNet and MediaPipe.
-- Calibration Folder: Contains scripts and resources for system calibration.
-- Game Folder: Contains the code and resources for the interactive game integrated with gaze detection.
-
+## Dataset
+In this research, the dataset was manually created using a smartphone, consisting of 12 videos — 10 for training and 2 for testing. These videos capture conveyor belts with LEGO bricks from multiple angles with varying complexities for diversity. LEGO bricks were annotated frame-by-frame using RoboFlow (https://roboflow.com/), which was the most time-consuming step. Dataset is publicly available in kaggle: https://www.kaggle.com/datasets/hbahruz/multiple-lego-tracking-dataset
 
 ### Acknowledgments
 This project leverages the following tools and frameworks:
 
-- MediaPipe by Facebook
-- MobileNetV3: A lightweight deep learning architecture used for fine-tuned model inference.
-
-We thank the developers and maintainers of these tools for their valuable contributions to the open-source community.
