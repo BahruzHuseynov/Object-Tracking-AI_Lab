@@ -22,7 +22,7 @@ In this research, the dataset was manually created using a smartphone, consistin
 
 ## Pipeline
 <div align="center">
-   <img src="images/Pipeline_Main.png" alt="Pipeline" width="800">
+   <img src="images/Pipeline_Main.png" alt="Pipeline" width="600">
 </div>
 
 ## Using this project
