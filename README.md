@@ -21,7 +21,7 @@ It is a research based project in which object detection, segmentation, and trac
 In this research, the dataset was manually created using a smartphone, consisting of 12 videos — 10 for training and 2 for testing. These videos capture conveyor belts with LEGO bricks from multiple angles with varying complexities for diversity. LEGO bricks were annotated frame-by-frame using RoboFlow (https://roboflow.com/), which was the most time-consuming step. Dataset is publicly available in kaggle: https://www.kaggle.com/datasets/hbahruz/multiple-lego-tracking-dataset
 
 ## Pipeline
-<img src="images/Pipeline_Main.png" alt="Pipeline" width="300">
+<img src="images/Pipeline_Main.png" alt="Pipeline" width="800">
 
 ## Using this project
 
