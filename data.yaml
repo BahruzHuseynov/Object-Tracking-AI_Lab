@@ -1,0 +1,19 @@
+train: dataset/images/train
+test: dataset/images/test
+val: dataset/images/val
+
+nc: 1
+label: ["lego"]
+
+augmentation: 
+  hsv_h: 0.015
+  hsv_s: 0.3
+  hsv_v: 0.3
+  degrees: 90.0
+  translate: 0.1
+  scale: [0.5, 1.0, 1.5]
+  shear: 1.3
+  flipud: 0.7
+  fliplr: 0.7
+  mosaic: 1.0
+  mixup: 0.7
