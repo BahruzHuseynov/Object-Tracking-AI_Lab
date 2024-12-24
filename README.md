@@ -27,8 +27,15 @@ It is a research based project in which object detection, segmentation, and trac
    <img src="images/Pipeline_Main.png" alt="Pipeline" width="700">
 </div>
 
-## Using this project
+## Pre-trained parameters
+- The folder contains .pt files of YOLOv8 and RT-DETR detection models which are the saved parameters of best YOLOv8 and best RT-DETR models represented in Lego_Results.xlsx (located under Results folder)
 
-### Acknowledgments
-This project leverages the following tools and frameworks:
+## Models
+- Jupyter Notebook named "Fine-Tuning Detection Models" is used to fine-tune the YOLOv8 and RT-DETR and save the parameters
+- data.yaml file is used in the training procedure of the detection models, which contains data path, augmentation types and other needy information
+- Jupyter Notebook named "Fine-Tuned RTDETR + DeepSORT" is a combination of the Detection-Tracking pipeline. YOLOv8 can also be used instead of RT-DETR with some minor changes.
+
+## Results
+- The folder contains Lego_Results.xlsx which has all saved values during the execution of the codes
+- There are also some figures underlining important points obtained from the experiments
 
