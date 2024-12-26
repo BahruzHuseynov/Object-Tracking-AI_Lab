@@ -39,4 +39,8 @@ It is a research based project in which object detection, segmentation, and trac
 - The folder contains Lego_Results.xlsx which has all saved values during the execution of the codes
 - There are also some figures underlining important points obtained from the experiments
 
-## <a href="https://drive.google.com/drive/u/1/folders/1BtncxKLn97y3-L2wcXft52zz3Ut1DKeu" target="_blank"> Videos </a>
+<div align="center">
+   <h1>
+      <a href="https://drive.google.com/drive/u/1/folders/1BtncxKLn97y3-L2wcXft52zz3Ut1DKeu"> Watch Test Videos obtained from the execution of the Pipeline </a>
+   </h1>
+</div>
