@@ -41,6 +41,6 @@ It is a research based project in which object detection, segmentation, and trac
 
 <div align="center">
    <h1>
-      <a href="https://drive.google.com/drive/u/1/folders/1BtncxKLn97y3-L2wcXft52zz3Ut1DKeu"> Watch Test Videos obtained from the execution of the Pipeline </a>
+      <a href="https://drive.google.com/drive/u/1/folders/1BtncxKLn97y3-L2wcXft52zz3Ut1DKeu"> Watch Test Videos obtained from the execution of the pipelines </a>
    </h1>
 </div>
