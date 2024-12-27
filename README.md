@@ -35,6 +35,9 @@ It is a research based project in which object detection, segmentation, and trac
 - data.yaml file is used in the training procedure of the detection models, which contains data path, augmentation types and other needy information
 - Jupyter Notebook named "Fine-Tuned RTDETR + DeepSORT" is a combination of the Detection-Tracking pipeline. YOLOv8 can also be used instead of RT-DETR with some minor changes.
 
+## Report
+- Actual report and its editable format in LatEx is provided under this folder
+
 ## Results
 - The folder contains Lego_Results.xlsx which has all saved values during the execution of the codes
 - There are also some figures underlining important points obtained from the experiments
